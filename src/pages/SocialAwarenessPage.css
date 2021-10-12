@@ -1,0 +1,11 @@
+.nav_link {
+  text-decoration: none;
+  color: black;
+}
+.active_link {
+  background-color: rgb(214, 228, 250) !important;
+  color: rgb(58, 58, 233) !important;
+}
+.active_icon {
+  color: rgb(58, 58, 233) !important;
+}

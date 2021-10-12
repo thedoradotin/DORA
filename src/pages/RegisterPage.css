@@ -1,0 +1,9 @@
+.register_container {
+  margin-top: 50px;
+  width: 100%;
+  min-height: 90%;
+  max-height: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
